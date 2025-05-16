@@ -1,1 +1,1 @@
-# churn_analysis-project
+# churn_project
